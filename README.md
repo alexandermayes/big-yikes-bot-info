@@ -1,13 +1,10 @@
-# Big Yikes Bot public information
+# Big Yikes Bot public information (moved)
 
-Public guide, Terms of Service and Privacy Policy for Big Yikes Bot.
+The About, Terms of Service and Privacy Policy pages now live on the guild site:
 
-- [About the bot](https://alexandermayes.github.io/big-yikes-bot-info/)
-- [Terms of Service](https://alexandermayes.github.io/big-yikes-bot-info/terms.html)
-- [Privacy Policy](https://alexandermayes.github.io/big-yikes-bot-info/privacy.html)
+- https://yikesgaming.com/bot/
+- https://yikesgaming.com/bot/terms.html
+- https://yikesgaming.com/bot/privacy.html
 
-Support and privacy requests: contact Zev through the Big Yikes Discord server.
-
-This repository contains public static information pages and their assets. The bot and management dashboard are operated separately. These pages use no analytics or JavaScript. GitHub Pages hosts the public site and may process technical connection information under GitHub's privacy statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
-
-Archivo and Source Sans 3 fonts are distributed under the included SIL Open Font License notices.
+Their source is in the yikesgaming-site repo under `bot/`. The pages here only redirect, so older links (including any
+still saved in Discord's Developer Portal) keep working. This repository is archived.
